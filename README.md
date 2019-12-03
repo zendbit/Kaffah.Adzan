@@ -1,4 +1,4 @@
-# Kaffah.Adzan
+# Zendbit.Kaffah.Adzan
 
 The documentation same with the original creator.
 
